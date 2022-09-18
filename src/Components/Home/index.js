@@ -11,7 +11,7 @@ const Home = ()=>{
            <div className='text-zone'>
               <h1>Hi, <br /> I'm
               <img src={LogoP} alt="Developer" />
-              KWanjaiya
+              Wanjaiya
               <br />
               Web Developer
               </h1>
